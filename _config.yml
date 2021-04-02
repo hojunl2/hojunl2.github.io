@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "ko"
-title                    : "C 프로그래밍"
+title                    : "프로그래밍 강좌"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이호준"
-description              : "시스템 프로그래밍을 위한 C언어"
+description              : "시스템 프로그래밍을 위한 "
 url                      : "https://hojunl2.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hojunl2/hojunl2.github.io"
